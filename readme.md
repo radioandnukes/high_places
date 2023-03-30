@@ -13,16 +13,16 @@ N55E013.hgt = North 55deg East 13deg
 
 python3 high_places.py N55E013.hgt
 
-This should output N55E013.kml and N55E013.png
+requirements
 
-requirments
-
-Python3
-numpy, scipy, matplotlib, simplekml
+Python3 + numpy, scipy, matplotlib, simplekml
 
 Background info.
 
 The SRTM Shuttle Radar Topography Mission was flown on Space Shuttle Endeavour between Feb 11-22, 2000
-The top song in the US was "What a Girl Wants"	Christina Aguilera
+The top song in the US was "What a Girl Wants" Christina Aguilera
 
 Have fun!
+
+
+
