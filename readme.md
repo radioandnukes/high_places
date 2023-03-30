@@ -1,6 +1,8 @@
 
 Enter the following with the filename of the SRTM file you want to use.
 
+SRTM data source https://dwtkns.com/srtm30m/
+
 Note: The file name bust be in this format AnnBnnn.hgt
 A = N or S North or South
 nn = 2 digit Lattitude
