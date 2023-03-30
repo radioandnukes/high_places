@@ -20,4 +20,9 @@ requirments
 Python3
 numpy, scipy, matplotlib, simplekml
 
+Background info.
+
+The SRTM Shuttle Radar Topography Mission was flown on Space Shuttle Endeavour between Feb 11-22, 2000
+The top song in the US was "What a Girl Wants"	Christina Aguilera
+
 Have fun!
